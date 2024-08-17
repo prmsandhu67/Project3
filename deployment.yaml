@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: prmsandhu67/devops-project3:v1 
+        image: prmsandhu67/devops-project3:v2
         ports:
         - containerPort: 80
